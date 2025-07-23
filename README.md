@@ -50,10 +50,6 @@ It integrates reporting, logging, and screenshot capture for a robust automation
 
 ## <a name="features">🔋 Features</a>
 
-👉 **User Authentication**:
-- Sign up and login functionality to access personalized features.
-- Authentication with Google for convenient login.
-
 👉 **Course Search Automation**
 - Search for courses with applied filters (Language, Level).
 
