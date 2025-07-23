@@ -1,0 +1,22 @@
+07:44:10 [main] INFO  com.coursera.utils.DriverSetup - Initializing Browser for :: edge
+07:44:15 [main] INFO  com.coursera.tests.HomePageTest - testValidSite :: PASSED !!
+07:44:15 [main] INFO  com.coursera.tests.HomePageTest - testSearchVisibility :: PASSED !!
+07:44:19 [main] INFO  com.coursera.tests.HomePageTest - testSearchCourse :: PASSED !!
+07:44:20 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testScrollToLanguageTitle :: PASSED !!
+07:44:20 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testClickSeeMoreLanguages :: PASSED !!
+07:44:22 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testSelectLanguage :: PASSED !!
+07:44:22 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testPrintAllLanguages :: PASSED !!
+07:44:22 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testScrollToLevelTitle :: PASSED !!
+07:44:22 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testSelectLevel :: PASSED !!
+07:44:22 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testPrintAllLevels :: PASSED !!
+07:44:28 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testScrollToRenderCourses :: PASSED !!
+07:44:29 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testGetCourses :: PASSED !!
+07:44:34 [main] INFO  com.coursera.tests.SearchedResultsPageTest - testNavigateBackToHome :: PASSED !!
+07:44:38 [main] INFO  com.coursera.tests.EnterprisePageTest - testScrollToEnterprise :: PASSED !!
+07:44:44 [main] INFO  com.coursera.tests.EnterprisePageTest - testNavigateToEnterprise :: PASSED !!
+07:44:51 [main] ERROR com.coursera.tests.EnterprisePageTest - testFillForm :: FAILED !!!
+07:44:59 [main] ERROR com.coursera.tests.EnterprisePageTest - testFillForm :: FAILED !!!
+07:45:07 [main] ERROR com.coursera.tests.EnterprisePageTest - testFillForm :: FAILED !!!
+07:45:15 [main] ERROR com.coursera.tests.EnterprisePageTest - testFillForm :: FAILED !!!
+07:45:26 [main] INFO  com.coursera.tests.EnterprisePageTest - testFillForm :: PASSED !!
+07:45:31 [main] INFO  com.coursera.tests.BaseTest - Driver closed successfully
